@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Button_Clicker_Tracker/static/css/main.3439f44e.css",
+    "main.js": "/Button_Clicker_Tracker/static/js/main.d486997c.js",
+    "static/js/787.332c58e5.chunk.js": "/Button_Clicker_Tracker/static/js/787.332c58e5.chunk.js",
+    "index.html": "/Button_Clicker_Tracker/index.html",
+    "main.3439f44e.css.map": "/Button_Clicker_Tracker/static/css/main.3439f44e.css.map",
+    "main.d486997c.js.map": "/Button_Clicker_Tracker/static/js/main.d486997c.js.map",
+    "787.332c58e5.chunk.js.map": "/Button_Clicker_Tracker/static/js/787.332c58e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3439f44e.css",
+    "static/js/main.d486997c.js"
+  ]
+}
