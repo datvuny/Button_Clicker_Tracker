@@ -113,7 +113,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Dat Vu 
 <!-- - [@twitter_handle](https://twitter.com/twitter_handle)  -->
 
-Project Link: [https://github.com/datvuny/Button_Clicker_Tracker](https://github.com/datvuny/Button_Clicker_Tracker)
+Project Link: [https://datvuny.github.io/Button_Clicker_Tracker/](https://datvuny.github.io/Button_Clicker_Tracker/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
